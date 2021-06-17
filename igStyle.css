@@ -1,0 +1,196 @@
+﻿body {
+    width: 100%;
+    max-width: 940px;
+    height: auto;
+    font-family: "Helvetica Neue", sans-serif;
+    margin: auto;
+}
+nav {
+    color: black;
+    flex-direction: row; 
+    justify-content: space-evenly;
+    width: 100%; 
+}
+
+    nav .mainMenu {
+        display: flex;
+        flex-direction: row;
+        list-style: none;
+        flex-grow: 1
+    }
+
+        nav .mainMenu li {
+            display: inline-block;
+            padding-top: 0px; 
+            padding-right: 15px;
+            padding-left: 15px; 
+            text-decoration: none;
+            color: black;
+            font-size: 1.5rem;
+        }
+        nav .mainMenu .icon {
+            padding-left: 1%; 
+            padding-right: 1%; 
+        }
+        nav .mainMenu .logo {
+            padding-right: 20%;
+            padding-left: 0%; 
+        }
+        nav .mainMenu .searchBar {
+            padding-right: 20%;
+            padding-left: 1.5%;
+        }
+            nav .mainMenu .searchBar .search {
+                border: solid lightgrey 1px;
+                border-radius: 10%;
+                height: 30px;
+                width: 140%;
+                min-width: 50px; 
+                text-align: center;
+            }
+
+            nav .mainMenu li a:hover {
+                background: #FFB6C1;
+            }
+        nav .mainMenu .logo {
+            align-content: flex-start; 
+        }
+.pfptopright {
+    border-radius: 100%; 
+    width: 30px; 
+    border: double black 1.5px; 
+}
+
+.bioTable, td {
+    width: 100%; 
+}
+
+.pfpContainer {
+    width: 35%;
+    
+}
+    .pfpContainer .pfp {
+        border-radius: 100%;
+        width: 50%;
+        padding-left: 25%; 
+        padding-right: 25%; 
+        padding-top: 0px; 
+    }
+.bioTable .username {
+    font-size: 25px;
+    color: #585757;
+    padding-right: 2%;
+    font-weight: lighter;
+}
+.bioTable .editProfile {
+    background-color: white; 
+    border-radius: 10%; 
+    border: solid lightgrey 1px; 
+    height: 25%; 
+    width: 25%; 
+    font-weight: bold; 
+    margin: 10px auto 10px auto; 
+}
+.name {
+    padding-top: 10px; 
+}
+.category {
+    color: gray; 
+}
+
+.highlightsContainer {
+    width: 100%; 
+    justify-content: space-evenly; 
+    border-bottom: lightgrey solid 1px; 
+}
+tr, td {
+    height: auto;
+}
+.highlights {
+    width: auto;
+    text-align: center;
+    margin-top: 0px;
+}
+.hlContent {
+    width: 70%;
+    max-height: 75px;
+    max-width: 75px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: auto;
+    border-radius: 100%;
+    border: solid white;
+    box-shadow: 0 0 0 1px lightgrey;
+}
+.hltag {
+    height: 25px;
+    max-width: 75px;
+    align-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 0px; 
+    border-radius: 100%;
+}
+
+nav .mainMenu .tabs {
+    color: gray;
+    font-size: 0.75rem;
+    padding-right: 10%; 
+    justify-content: center; 
+}
+
+.postsGrid {
+    width: 100%;
+    justify-content: center;
+    margin: auto;
+/*    display: flex;
+*/}
+
+.posts {
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    display: flex;
+    width: 100%;
+    cursor: pointer;
+}
+
+/*#overlay {
+    position: absolute;
+    display: none;
+    width: 30%;
+    height: 30%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 2;
+    cursor: pointer;
+}*/
+
+td {
+    justify-content: center;
+    position: relative;
+    margin: 1% 0.50% 0.5% 0.50%;
+    width: 30%;
+    height: auto; 
+}
+#overlay,
+#pic {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+.pic {
+    width: 100%;
+}
+
+nav .mainMenu .footer {
+    color: #808080;
+    font-size: 0.75rem;
+    padding-right: 1.5%;
+    justify-content: center;
+}

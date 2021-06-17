@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{12C1E081-66BA-4441-9B8D-65B8B6BE7CCC}"
+	ProjectSection(SolutionItems) = preProject
+		dropdown.png = dropdown.png
+		Pictures\dropdown.png = Pictures\dropdown.png
+		hl_fit.jpg = hl_fit.jpg
+		Pictures\hl_fit.jpg = Pictures\hl_fit.jpg
+		hl_food.jpg = hl_food.jpg
+		Pictures\hl_food.jpg = Pictures\hl_food.jpg
+		hl_leo.jpg = hl_leo.jpg
+		Pictures\hl_leo.jpg = Pictures\hl_leo.jpg
+		hl_makeup.jpg = hl_makeup.jpg
+		Pictures\hl_makeup.jpg = Pictures\hl_makeup.jpg
+		hl_people.jpg = hl_people.jpg
+		Pictures\hl_people.jpg = Pictures\hl_people.jpg
+		hl_photo.jpg = hl_photo.jpg
+		Pictures\hl_photo.jpg = Pictures\hl_photo.jpg
+		igStyle.css = igStyle.css
+		igtv.png = igtv.png
+		Pictures\igtv.png = Pictures\igtv.png
+		index.html = index.html
+		logo.jpg = logo.jpg
+		Pictures\logo.jpg = Pictures\logo.jpg
+		pfp.jpg = pfp.jpg
+		Pictures\pfp.jpg = Pictures\pfp.jpg
+		post1.jpg = post1.jpg
+		Pictures\post1.jpg = Pictures\post1.jpg
+		post10.jpg = post10.jpg
+		Pictures\post10.jpg = Pictures\post10.jpg
+		post11.jpg = post11.jpg
+		Pictures\post11.jpg = Pictures\post11.jpg
+		post12.jpg = post12.jpg
+		Pictures\post12.jpg = Pictures\post12.jpg
+		post13.jpg = post13.jpg
+		Pictures\post13.jpg = Pictures\post13.jpg
+		post14.jpg = post14.jpg
+		Pictures\post14.jpg = Pictures\post14.jpg
+		post15.jpg = post15.jpg
+		Pictures\post15.jpg = Pictures\post15.jpg
+		post16.jpg = post16.jpg
+		Pictures\post16.jpg = Pictures\post16.jpg
+		post17.jpg = post17.jpg
+		Pictures\post17.jpg = Pictures\post17.jpg
+		post18.jpg = post18.jpg
+		Pictures\post18.jpg = Pictures\post18.jpg
+		post19.jpg = post19.jpg
+		Pictures\post19.jpg = Pictures\post19.jpg
+		post2.jpg = post2.jpg
+		Pictures\post2.jpg = Pictures\post2.jpg
+		post20.jpg = post20.jpg
+		Pictures\post20.jpg = Pictures\post20.jpg
+		post3.jpg = post3.jpg
+		Pictures\post3.jpg = Pictures\post3.jpg
+		post4.jpg = post4.jpg
+		Pictures\post4.jpg = Pictures\post4.jpg
+		post5.jpg = post5.jpg
+		Pictures\post5.jpg = Pictures\post5.jpg
+		post6.jpg = post6.jpg
+		Pictures\post6.jpg = Pictures\post6.jpg
+		post7.jpg = post7.jpg
+		Pictures\post7.jpg = Pictures\post7.jpg
+		post8.jpg = post8.jpg
+		Pictures\post8.jpg = Pictures\post8.jpg
+		post9.jpg = post9.jpg
+		Pictures\post9.jpg = Pictures\post9.jpg
+		reels.png = reels.png
+		Pictures\reels.png = Pictures\reels.png
+		tagged.png = tagged.png
+		Pictures\tagged.png = Pictures\tagged.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {482D695A-AC15-433D-91F7-0AD60B501D25}
+	EndGlobalSection
+EndGlobal
